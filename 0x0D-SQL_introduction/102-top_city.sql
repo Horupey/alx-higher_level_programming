@@ -1,4 +1,4 @@
-Footer navigationys the average temp of 3 cities
+-- displays the average temp of 3 cities
 -- during July and August
 -- ordered by temperature desc
 
